@@ -1,0 +1,1 @@
+# Optimize image loading
