@@ -2,3 +2,4 @@ Add e2e test for checkout flow
 Add environment config template
 Add API documentation
 Fix responsive layout on mobile
+Optimize image loading
