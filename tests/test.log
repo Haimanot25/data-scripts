@@ -4,3 +4,4 @@ Add API documentation
 Fix responsive layout on mobile
 Optimize image loading
 Optimize image loading
+Add unit tests for auth module
