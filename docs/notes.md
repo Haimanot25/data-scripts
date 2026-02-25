@@ -5,3 +5,4 @@
 # Fix typo in error message
 # Add dark mode toggle
 # Fix CORS configuration
+# Add rate limiting
