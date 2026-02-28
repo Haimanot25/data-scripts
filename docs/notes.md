@@ -6,3 +6,4 @@
 # Add dark mode toggle
 # Fix CORS configuration
 # Add rate limiting
+# Fix responsive layout on mobile
