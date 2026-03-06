@@ -5,3 +5,4 @@ Fix navigation z-index issue
 Fix navigation z-index issue
 Add API documentation
 Add rate limiting
+Add dark mode toggle
