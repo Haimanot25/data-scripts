@@ -8,3 +8,4 @@ Add rate limiting
 Add dark mode toggle
 Update dependencies
 Update dependencies
+Refactor API error handling
