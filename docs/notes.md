@@ -8,3 +8,4 @@
 # Add rate limiting
 # Fix responsive layout on mobile
 # Update hero section styling
+# Refactor API error handling
