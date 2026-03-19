@@ -7,3 +7,4 @@
 # Fix CORS configuration
 # Add rate limiting
 # Fix responsive layout on mobile
+# Update hero section styling
