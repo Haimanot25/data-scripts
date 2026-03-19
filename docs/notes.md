@@ -9,3 +9,4 @@
 # Fix responsive layout on mobile
 # Update hero section styling
 # Refactor API error handling
+# Update database schema
