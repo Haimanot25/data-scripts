@@ -10,3 +10,4 @@ Update dependencies
 Update dependencies
 Refactor API error handling
 Optimize image loading
+Add user authentication middleware
