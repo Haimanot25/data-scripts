@@ -10,3 +10,4 @@
 # Update hero section styling
 # Refactor API error handling
 # Update database schema
+# Fix CORS configuration
