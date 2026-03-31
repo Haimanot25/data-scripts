@@ -11,3 +11,4 @@
 # Refactor API error handling
 # Update database schema
 # Fix CORS configuration
+# Update changelog
