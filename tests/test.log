@@ -9,3 +9,4 @@ Fix responsive layout on mobile
 Fix typo in error message
 Clean up unused imports
 Fix navigation z-index issue
+Update database schema
