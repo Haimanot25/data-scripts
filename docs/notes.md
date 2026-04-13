@@ -12,3 +12,4 @@
 # Update database schema
 # Fix CORS configuration
 # Update changelog
+# Fix typo in error message
