@@ -12,3 +12,4 @@ Refactor API error handling
 Optimize image loading
 Add user authentication middleware
 Optimize image loading
+Add dark mode toggle
