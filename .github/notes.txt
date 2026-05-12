@@ -16,3 +16,4 @@ Add dark mode toggle
 Fix navigation z-index issue
 Update hero section styling
 Optimize image loading
+Add dark mode toggle
