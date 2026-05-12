@@ -13,3 +13,4 @@
 # Fix CORS configuration
 # Update changelog
 # Fix typo in error message
+# Add dark mode toggle
