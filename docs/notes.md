@@ -14,3 +14,4 @@
 # Update changelog
 # Fix typo in error message
 # Add dark mode toggle
+# Optimize image loading
