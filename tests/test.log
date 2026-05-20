@@ -16,3 +16,4 @@ Update database schema
 Fix navigation z-index issue
 Update changelog
 Add environment config template
+Add user authentication middleware
