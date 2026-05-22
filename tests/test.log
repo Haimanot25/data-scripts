@@ -18,3 +18,4 @@ Update changelog
 Add environment config template
 Add user authentication middleware
 Update hero section styling
+Fix flaky integration test
