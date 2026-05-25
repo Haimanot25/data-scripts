@@ -19,3 +19,4 @@ Optimize image loading
 Add dark mode toggle
 Update database schema
 Optimize image loading
+Update database schema
