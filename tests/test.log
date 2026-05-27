@@ -20,3 +20,4 @@ Add user authentication middleware
 Update hero section styling
 Fix flaky integration test
 Add rate limiting
+Update dependencies
