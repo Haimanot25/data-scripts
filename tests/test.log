@@ -21,3 +21,4 @@ Update hero section styling
 Fix flaky integration test
 Add rate limiting
 Update dependencies
+Update database schema
