@@ -20,3 +20,4 @@ Add dark mode toggle
 Update database schema
 Optimize image loading
 Update database schema
+Add rate limiting
