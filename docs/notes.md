@@ -17,3 +17,4 @@
 # Optimize image loading
 # Add environment config template
 # Add unit tests for auth module
+# Fix CORS configuration
