@@ -22,3 +22,4 @@ Fix flaky integration test
 Add rate limiting
 Update dependencies
 Update database schema
+Add user authentication middleware
