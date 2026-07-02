@@ -19,3 +19,4 @@
 // Update hero section styling - 1784576442
 // Add rate limiting - 1784576445
 // Add dark mode toggle - 1784576446
+// Update dependencies - 1784576448
