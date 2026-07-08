@@ -19,3 +19,4 @@
 # Add unit tests for auth module
 # Fix CORS configuration
 # Fix navigation z-index issue
+# Add unit tests for auth module
